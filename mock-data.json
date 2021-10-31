@@ -1,0 +1,191 @@
+[
+    {
+      "id": 1,
+      "fullName": "Jane cooper",
+      "address": "3 waterfoot road",
+      "phoneNumber": "333-962-7516",
+      "source": "manually added",
+      "status": "open",
+      "email": "jenny.chan@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "wade warren",
+      "address": "4 tall town",
+      "phoneNumber": "011-211-7516",
+      "source": "manually added",
+      "status": "open",
+      "email": "jessica.warren@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Esther Howard",
+      "address": "11 lesly road",
+      "phoneNumber": "788-962-7516",
+      "source": "manually added",
+      "status": "open",
+      "email": "tony.frank@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Cameron Williamson",
+      "address": "333 miltown manor",
+      "phoneNumber": "011-962-111",
+      "source": "manually added",
+      "status": "open",
+      "email": "jeremy.clark@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Brooklyn williams",
+      "address": "Nevada",
+      "phoneNumber": "3231-96232-323-2-7516",
+      "source": "manually added",
+      "status": "open",
+      "email": "raymon.edwards@email.com"
+    },
+    {
+        "id": 6,
+        "fullName": "Leslie Alexander",
+        "address": "texas",
+        "phoneNumber": "3231-962-7516",
+        "source": "manually added",
+        "status": "open",
+        "email": "alexan@email.com"
+      },
+      {
+        "id": 7,
+        "fullName": "jennie willson",
+        "address": "kyoto",
+        "phoneNumber": "3233-336-31-962-7516",
+        "source": "manually added",
+        "status": "open",
+        "email": "raymos@email.com"
+      },
+      {
+        "id": 8,
+        "fullName": "guy Hawkins",
+        "address": "delhi",
+        "phoneNumber": "3231-926",
+        "source": "manually added",
+        "status": "open",
+        "email": "kins@email.com"
+      },
+      {
+        "id": 9,
+        "fullName": "Robert fox",
+        "address": "Shangai",
+        "phoneNumber": "3231-962-7516",
+        "source": "manually added",
+        "status": "on hold",
+        "email": "foxes@email.com"
+      },
+      {
+        "id": 10,
+        "fullName": "jacob jones",
+        "address": "acres",
+        "phoneNumber": "3267-21-962-7516",
+        "source": "manually added",
+        "status": "open",
+        "email": "joness@email.com"
+      },
+      {
+        "id": 11,
+        "fullName": "Nikhil",
+        "address": "Queens",
+        "phoneNumber": "32121-31-962-7516",
+        "source": "manually added",
+        "status": "open",
+        "email": "nikhis@email.com"
+      },
+      {
+        "id": 12,
+        "fullName": "Mithra",
+        "address": "Seoul",
+        "phoneNumber": "1-962-7516",
+        "source": "manually added",
+        "status": "closed",
+        "email": "ra@email.com"
+      },
+      {
+        "id": 13,
+        "fullName": "santosh",
+        "address": "San Fransico",
+        "phoneNumber": "3231-9626",
+        "source": "manually added",
+        "status": "in progress",
+        "email": "rvijs@email.com"
+      },
+      {
+        "id": 15,
+        "fullName": "thomas shelby",
+        "address": "99 blue acres",
+        "phoneNumber": "3231-962-7516",
+        "source": "manually added",
+        "status": "in progress",
+        "email": "rshelby@email.com"
+      },
+      {
+        "id": 16,
+        "fullName": "rachel green",
+        "address": "California",
+        "phoneNumber": "3265-65-6962-7516",
+        "source": "manually added",
+        "status": "in progress",
+        "email": "Greenrs@email.com"
+      },
+      {
+        "id": 17,
+        "fullName": "chandler bing",
+        "address": "New york",
+        "phoneNumber": "32-765-31-962-7516",
+        "source": "manually added",
+        "status": "in progress",
+        "email": "Bings@email.com"
+      },
+       {
+        "id": 18,
+        "fullName": "phoebe buffay",
+        "address": "colombo",
+        "phoneNumber": "32378-1-216",
+        "source": "manually added",
+        "status": "in progress",
+        "email": "djbjs@email.com"
+      },
+       {
+        "id": 19,
+        "fullName": "john shelby",
+        "address": "99 birmingham",
+        "phoneNumber": "3231-962-7516",
+        "source": "manually added",
+        "status": "in progress",
+        "email": "johns@email.com"
+      },
+       {
+        "id": 20,
+        "fullName": "michael shelby",
+        "address": "99 Violet acres",
+        "phoneNumber": "31-962-75416",
+        "source": "manually added",
+        "status": "in progress",
+        "email": "ms@email.com"
+      },
+       {
+        "id": 21,
+        "fullName": "Arthur shelby",
+        "address": "99 RED acres",
+        "phoneNumber": "3231-966",
+        "source": "manually added",
+        "status": "in progress",
+        "email": "arthurs@email.com"
+      },
+      {
+        "id": 22,
+        "fullName": "moonica geller",
+        "address": "A99 blue acres",
+        "phoneNumber": "322-7516",
+        "source": "manually added",
+        "status": "in progress",
+        "email": "geller@email.com"
+      }
+  ]

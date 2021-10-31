@@ -1,0 +1,124 @@
+.app-container {
+  display: right;
+  flex-direction: column;
+  gap: 10px;
+  background: linear-gradient(
+    90deg,
+    rgb(12, 158, 255) 0%,
+    rgba(154, 0, 250, 0.349) 100%
+  );  position: relative;
+  padding: 1rem;
+}
+
+body {
+  text-align:center;
+
+  background-color: gainsboro;
+}
+
+table {
+  font-size:medium;
+  border-collapse: collapse;
+  width: 150%;
+  margin: 0 auto;
+  height: 100%;
+  table-layout: 100%;
+  position: relative; 
+
+  
+}
+
+th,
+td {
+  border: 2px solid rgb(0, 0, 0);
+  text-align: center;
+  padding: 12px;
+  font-size: 50px;
+  overflow: hidden;
+  font-size:medium; 
+    text-overflow: ellipsis; 
+    word-wrap: break-word;
+    position: relative;
+}
+
+th {
+  justify-content: space-between;
+  align-items: center;
+  font-size:medium;
+  margin: 0 auto;
+  color: #fff;
+background-color: rgba(89,89,89,1);
+}
+
+td {
+  font-size: 55px;
+  font-size:medium;
+  background-color: rgba(255, 255, 255, 0.315);
+  
+}
+
+form {
+  display: flex;
+  gap: 5px;
+  font-size:medium;
+}
+
+
+form td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+  font-size:medium;
+}
+
+form * {
+  font-size: 11px;
+}
+
+.search-bar{
+  
+  overflow: hidden;
+  position: relative;
+}
+
+.cr5{
+  background: -o-linear-gradient(top,  rgba(238,238,238,1) 0%,rgba(89,89,89,1) 100%); /* Opera 11.10+ */
+position: relative;
+border-right: right;
+  width: 25px;
+  font-size:medium;
+}
+
+
+.ok{
+  font-size:medium;
+  width: 120px;
+  height: 30px;
+  position: absolute;
+  top: 31px;
+  left: 10px;
+}
+
+.sd{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 50px;
+  font-size:medium;
+  height: 13px; 
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+
+
+}
+
+.lop{
+  border-style: solid;
+  font-size:medium;
+
+}
+
+.op{
+  border-style: solid;
+width: 60px;
+}
